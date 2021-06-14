@@ -15,4 +15,13 @@
 3) click on 'start Recognition'.
 
 4) Happy Recognizing.
-    
+
+(Note*: Accuracy can be increased by capturing more faces. You can do that by making changed in 'datagather.py')
+-------------------------------------------------------------------------------------------------
+
+Sources/Credits: 
+
+https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348
+https://www.youtube.com/channel/UCWEHue8kksIaktO8KTTN_zg
+
+
