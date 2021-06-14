@@ -16,7 +16,7 @@
 
 4) Happy Recognizing.
 
-(Note*: Accuracy can be increased by capturing more faces. You can do that by making changed in 'datagather.py')
+(Note : Accuracy can be increased by capturing more faces. You can do that by making changes in 'datagather.py')
 -------------------------------------------------------------------------------------------------
 
 Sources/Credits: 
